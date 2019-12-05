@@ -1193,3 +1193,13 @@ p.justify{
 .automargin{
   margin: 0 auto;
 }
+
+
+.lightshadow{
+	-moz-box-shadow:0 0 10px #000; 
+	-webkit-box-shadow:0 0 10px #000; 
+	box-shadow:0 0 10px #fff;
+}
+
+
+
