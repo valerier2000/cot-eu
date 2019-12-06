@@ -31,5 +31,5 @@
 
     $mysql->close();
 
-    header('Location: validation-form/register.php');
+    header('Location: ../validation-form/register.php');
 ?>
